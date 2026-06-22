@@ -23,7 +23,7 @@ GROUP BY: Separa os comandos em pilhas (não soma tudo junto)
 ```sql
 SELECT AVG(valor_total) AS ticket médio
 FROM pedidos;
-
+```
 Explicação:
 
 Calcula a média do valor total de todos os pedidos.
